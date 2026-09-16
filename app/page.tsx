@@ -13,7 +13,7 @@ export default async function Home() {
       <div className="max-w-3xl mx-auto space-y-16">
         
         <header className="space-y-4">
-          <h1 className="text-4xl md:text-5xl font-bold tracking-tight">Digital Workspace</h1>
+          <h1 className="text-4xl md:text-5xl font-bold tracking-tight">Shashank S</h1>
           <p className="text-lg md:text-xl text-[#4A4A4A] leading-relaxed">
             Documenting my explorations, AI research, and building scalable tech.
           </p>
