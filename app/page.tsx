@@ -47,9 +47,9 @@ export default async function Home() {
         <section className="space-y-6">
           <h2 className="text-2xl font-semibold border-b border-[#EAE8E3] pb-2">Connect</h2>
           <div className="flex flex-col space-y-3 font-mono text-sm">
-            <a href="#" className="hover:text-[#D94F3D] transition-colors">→ Email</a>
-            <a href="#" className="hover:text-[#D94F3D] transition-colors">→ GitHub</a>
-            <a href="#" className="hover:text-[#D94F3D] transition-colors">→ X / Twitter</a>
+            <a href="mailto:shashanksarojai@gmail.com" target="_blank" rel="noopener noreferrer" className="hover:text-[#D94F3D] transition-colors">→ Email</a>
+            <a href="https://github.com/Grimzzzyy" target="_blank" rel="noopener noreferrer" className="hover:text-[#D94F3D] transition-colors">→ GitHub</a>
+            <a href="https://x.com/Sha8hankk" target="_blank" rel="noopener noreferrer" className="hover:text-[#D94F3D] transition-colors">→ X / Twitter</a>
           </div>
         </section>
 
